@@ -2,7 +2,7 @@
 
 In diesem Repository befindet sich das Grünbuch von [besserentscheiden.at](http://www.besserentscheiden.at) das noch bis zum 15. November zur Konsultation steht. Da ein 112 seitigies Dokument auf [discuto.io](https://www.discuto.io) zu kommentieren fast unmöglich ist, sind die Daten jetzt hier in verschiedenen Formaten einfach zu finden und __zu ändern__. 
 
-Du kannst das Dokument auch zur gänze hier lesen. 
+Du kannst das Dokument auch zur gänze [hier](https://github.com/socialhack/besserentscheiden.at/raw/master/Gruenbuch%20DWPol_20151103.docx) lesen. 
 
 ## Du willst etwas ändern, ganz einfach:
 
