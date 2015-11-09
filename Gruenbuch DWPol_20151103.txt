@@ -2707,11 +2707,9 @@ die aktiv am digitalen Leben teilhaben, und jene, die nicht daran teilnehmen kö
 Gruppe muss gezielt angesprochen werden, begleitet von niederschwelligen 
 Beteiligungsangeboten.
 Gefordert wurde in einem Beitrag eine auf Bundes- wie auf Landesebene einheitliche Form für 
-die E-Partizipation, die verfassungsrechtlich abgesichert ist. Auch die Diskussion über E-Voting 
-wird auf lange Sicht in einer digitalisierten Gesellschaft wieder an Gewicht gewinnen, selbst 
-wenn derzeit noch die Sicherheitsbedenken überwiegen und der Verfassungsgerichtshof 
-(VfGH)im Jahr 2011 die Verordnung zum E-Voting bei der ÖH-Wahl 2009 als gesetzeswidrig 
-aufgehoben hat.
+die E-Partizipation, die verfassungsrechtlich abgesichert ist. In der Diskussion über E-Voting 
+überwiegen die Sicherheitsbedenken, der Verfassungsgerichtshof (VfGH) hat im Jahr 2011 die 
+Verordnung zum E-Voting bei der ÖH-Wahl 2009 als gesetzeswidrig aufgehoben.
 Auch wenn Österreich längerfristig wohl einen ähnlich hohen Internet-Nutzer_innen-Anteil wie 
 Island (96 Prozent) erreichen wird, sind laut Statistik Austria derzeit noch immer 19 Prozent 
 der Österreicher_innen offline. Es gilt also, jene Menschen, die das Internet überhaupt nicht 
