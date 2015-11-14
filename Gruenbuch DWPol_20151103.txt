@@ -2646,6 +2646,12 @@ Fragen zu klären und die Unbedenklichkeit der geprüften Lösungen zu kommunizi
 gefordert. Einheitliche Normen für Datensicherheit müssen festgelegt und EU-weit 
 harmonisiert werden. Bei der Datenübermittlung muss Datensicherheit Vorrang haben. Die 
 Regulierung darf nicht aus Kostengründen Risiken in Kauf nehmen.      
+•	Die besonders ehrgeizigen Ausbauziele für Smartmeter von 95% der Haushalte sollten 
+überdacht werden. Sinnvoller wäre ein schrittweiser Ausbau, beginnend bei größeren 
+Verbrauchern und Betreibern größerer Photovoltaikanlagen. Dies würde die Kosten des 
+Roll-out minimieren und die parallele Entwicklung von Geschäftsmodellen und 
+Kundenvorteilen ermöglichen. Allmählich kann bei sich einstellenden Vorteilen der Roll-out 
+ausgeweitet werden, was auch zu einer höheren Kundenakzeptanz führen würde.
 •	Es wird schon seit vielen Jahren von zeitvariablen Tarifen im Strommarkt gesprochen, und 
 seit etwas kürzerer Zeit auch davon, dass diese Tarife die Energiewende unterstützen. 
 Letzteres weil dann zu Zeiten mit überschüssiger Energie aus Wind und Sonne bessere 
