@@ -1230,11 +1230,11 @@ alle Dienstbetreiber; koordinierter Ausbau und keine Schaffung von Monopol-Insel
 gestalten.
 •	Der Breitbandausbau darf dabei aber nicht die dünner besiedelten Gebiete vernachlässigen. 
 Das Problem auf der Last Mile darf nicht unterschätzt werden, da es sehr kostenintensiv ist, 
-wenn es leitungsbasierend gelöst wird. Fibre bis zum Endverbraucher wird wohl immer ein 
-nicht finanzierbarer Wunsch bleiben, aber statt dessen WLAN oder ein vergleichbarer 
-Dienst im Sinne der Technologieneutralität für kleine Gemeinden in dünner besiedelten 
-Regionen mit den oben beschriebenen Vorgaben der Netzneutralität sollte möglich und 
-machbar sein.
+wenn es leitungsbasierend gelöst wird. Dennoch muss ein Vollausbau das Ziel sein. Staatliche
+Fördermittel für Infrastruktur sollen nicht für wenig zukunftssichere Übergangstechnologien
+aufgewendet werden. Die Errichtung eines flächendeckenden Kupfernetzes war in der
+Vergangenheit auch mit öffentlichen Mitteln möglich, ebenso muss ein flächendeckendes
+Glasfasernetz angegangen werden.
 •	Gefordert wird das 5,8-GHz-Band für die Nutzung im Wireless-Bereich freizugeben.
 Mobilfunk
 •	Mobilfunk hat sich beginnend mit dem Start der 2. Mobilfunkgeneration Mitte der 90er 
