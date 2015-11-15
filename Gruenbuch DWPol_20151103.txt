@@ -1230,11 +1230,11 @@ alle Dienstbetreiber; koordinierter Ausbau und keine Schaffung von Monopol-Insel
 gestalten.
 •	Der Breitbandausbau darf dabei aber nicht die dünner besiedelten Gebiete vernachlässigen. 
 Das Problem auf der Last Mile darf nicht unterschätzt werden, da es sehr kostenintensiv ist, 
-wenn es leitungsbasierend gelöst wird. Fibre bis zum Endverbraucher wird wohl immer ein 
-nicht finanzierbarer Wunsch bleiben, aber statt dessen WLAN oder ein vergleichbarer 
-Dienst im Sinne der Technologieneutralität für kleine Gemeinden in dünner besiedelten 
-Regionen mit den oben beschriebenen Vorgaben der Netzneutralität sollte möglich und 
-machbar sein.
+wenn es leitungsbasierend gelöst wird. Dennoch muss ein Vollausbau das Ziel sein. Staatliche
+Fördermittel für Infrastruktur sollen nicht für wenig zukunftssichere Übergangstechnologien
+aufgewendet werden. Die Errichtung eines flächendeckenden Kupfernetzes war in der
+Vergangenheit auch mit öffentlichen Mitteln möglich, ebenso muss ein flächendeckendes
+Glasfasernetz angegangen werden.
 •	Gefordert wird das 5,8-GHz-Band für die Nutzung im Wireless-Bereich freizugeben.
 Mobilfunk
 •	Mobilfunk hat sich beginnend mit dem Start der 2. Mobilfunkgeneration Mitte der 90er 
@@ -2646,6 +2646,12 @@ Fragen zu klären und die Unbedenklichkeit der geprüften Lösungen zu kommunizi
 gefordert. Einheitliche Normen für Datensicherheit müssen festgelegt und EU-weit 
 harmonisiert werden. Bei der Datenübermittlung muss Datensicherheit Vorrang haben. Die 
 Regulierung darf nicht aus Kostengründen Risiken in Kauf nehmen.      
+•	Die besonders ehrgeizigen Ausbauziele für Smartmeter von 95% der Haushalte sollten 
+überdacht werden. Sinnvoller wäre ein schrittweiser Ausbau, beginnend bei größeren 
+Verbrauchern und Betreibern größerer Photovoltaikanlagen. Dies würde die Kosten des 
+Roll-out minimieren und die parallele Entwicklung von Geschäftsmodellen und 
+Kundenvorteilen ermöglichen. Allmählich kann bei sich einstellenden Vorteilen der Roll-out 
+ausgeweitet werden, was auch zu einer höheren Kundenakzeptanz führen würde.
 •	Es wird schon seit vielen Jahren von zeitvariablen Tarifen im Strommarkt gesprochen, und 
 seit etwas kürzerer Zeit auch davon, dass diese Tarife die Energiewende unterstützen. 
 Letzteres weil dann zu Zeiten mit überschüssiger Energie aus Wind und Sonne bessere 
@@ -2912,6 +2918,15 @@ Lösung etabliert werden. Lösungsansätze dazu gibt es bereits länger: „Iden
 Federationen auf nationaler und EU-Ebene“. Auf EU-Ebene ist dazu sicherlich das STORK-
 Projekt zu nennen, auf nationaler Ebene das im Go-To-Market befindliche „StarTrust 
 Alliance Austria/EU“ Projekt… 
+•	Da es sich um eine rechtsgültige Unterschrift handelt, ist es dringend notwendig die
+Sicherheitsmängel der Handysignatur zu beheben. Diese wird durch ein Zweifaktor-Verfahren 
+gesichert beworben, welches effektiv nur durch ein Passwort geschützt ist. Durch eklatante 
+Sicherheitsmängel der aktuellen Mobilfunktechnologie ist die Übertragung der TANs nicht 
+ausreichend abgesichert. Besonders fatal wäre ein Diebstahl des Handys, durch Kenntnis des 
+Passworts könnte ein Dritter dann rechtsgültig unterschreiben. Durch Sicherheitslücken in 
+den Übertragungsnetzen wäre dies für einen hartnäckigen Angreifer auch ohne Diebstahl des 
+Handys möglich. Weiters ist zu hinterfragen, den privaten Schlüssel für das Verfahren 
+außerhalb des Einflussbereichs des Nutzers in der Cloud zu speichern.
 •	Eine Vereinfachung des Zugangs zu den Angeboten der öffentlichen Hand für die 
 Bürger_innen ist jedenfalls begrüßenswert, vor allem wenn es darum geht, den Zugang zu 
 Informationen und diverse Amtswege zu erleichtern. Jegliches E-Government Angebot muss 
