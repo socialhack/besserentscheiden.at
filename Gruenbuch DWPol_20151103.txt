@@ -2505,21 +2505,19 @@ Zusammenhang auch ist die Einbindung der Cloud in die Verwertungs- und
 Vergütungsrechtsinfrastruktur für legale Privatkopien.
 Netzneutralität 
 Netzneutralität ist dann gegeben, wenn alle Daten im Internet gleich behandelt und 
-unabhängig von Sender, Empfänger, Standort oder Endgerät so schnell wie möglich zugestellt 
+unabhängig von Sender, Empfänger, Standort oder Endgerät so schnell wie möglich und zum selben Preis zugestellt 
 werden. Dieser gleiche Zugang für alle bewirkt letztlich, dass Internetgiganten wie Google oder 
 Microsoft bei der Übermittlung von Daten gleich behandelt werden wie Start-ups oder private 
 Nutzer_innen. Netzneutralität war ein wesentlicher Faktor hinter der hohen Innovationskraft 
 des Internets, sichert aber genauso Meinungsfreiheit und Medienvielfalt. 
-Die Netzneutralität wurde zuerst in den USA in Frage gestellt. Hintergrund ist der stark 
-angestiegene und noch weiter ansteigende Datenverkehr im Internet und die damit stark 
-ansteigende Auslastung der Netze und die Notwendigkeit die Netzkapazitäten auch zu 
-erhöhen. Die Forderung nach der Abschaffung der Netzneutralität – der Einrichtung einer 
+Die Netzneutralität wurde zuerst in den USA in Frage gestellt. Hintergrund ist die stark 
+angestiegene Rechenkapazität im Netz und die neuen Geschäftsmodelle, welche damit möglich werden. Wie wir inzwischen aus den USA wissen war Netzauslastung und der Netzausbau kein Grund für die ersten Verletzungen der Netzneutralität. Die Forderung nach der Abschaffung der Netzneutralität – der Einrichtung einer 
 „Überholspur“ für deren Benutzung man bezahlen kann - kam von den Netzbetreibern – vor 
-allem den Kabelgesellschaften – während sich die Content Produzenten für die Netzneutralität 
+allem den Kabelgesellschaften – während sich die Zivilgesellschaft, Content Produzenten, Kirchen, Bildungseinrichtungen und Wagniskapitalgeber für die Netzneutralität 
 einsetzten. Die Netzbetreiber sehen sich einerseits zu Kapazitätserhöhungen aufgrund des 
 stark angestiegenen Datenverkehrs gezwungen, andererseits stehen sie in Konkurrenz zu 
-neuen Anbietern wie skype oder WhatsApp die Teile ihres angestammten Marktes bedrohen.
-Die USA haben sich nach einer intensiven Diskussion für eine Beibehaltung der Netzneutralität 
+neuen Anbietern wie Skype oder WhatsApp die Teile ihres angestammten Marktes bedrohen.
+Die USA haben sich nach einer intensiven Diskussion mit breiter Beteiligung aller Stakeholder für eine Beibehaltung der Netzneutralität 
 entschieden. Europa hat leider nicht so klug entschieden. Nach massiven Interventionen der 
 Telekommunikationsbetreiber wurde die Frage der Netzneutralität mit der Abschaffung der 
 Roaming Gebühren verknüpft: Demnach wird die Netzneutralität abgeschafft, die Roaming 
@@ -2528,7 +2526,7 @@ Verknüpfung nicht logisch ist – in beiden Fragestellungen sollte die Sachlogi
 Entscheidungen bestimmen – wird deutlich, was hier eigentlich verhandelt wird: die 
 zukünftigen Einnahmen der Telekommunikationsunternehmen. Dafür war man in Europa 
 offensichtlich bereit die Netzneutralität abzuschaffen, obwohl es erkennbare Nachteile und 
-keine Vorteile für die Nachfrager_innen gibt. 
+keine Vorteile für die Nachfrager_innen und Diensteanbieter gibt. 
 •	Auch unter Netzneutralität müssen ausreichend Anreize für Investitionen in die 
 Telekommunikationsinfrastruktur gegeben sein  – das sollte im Rahmen der 
 Telekommunikationsregulierung  sichergestellt werden – aber auch, dass die durch die 
@@ -2536,7 +2534,7 @@ Abschaffung der Netztneutralität möglichen neuen Geschäftsmodelle nicht zum
 Nachteil der Nachfrager_innen eingesetzt werden  (z.B. durch Revenue-Sharing 
 Modelle zwischen Infrastruktur- und Content Anbietern). 
 •	Konkret wird mit der Entscheidung auf europäischer Ebene zwar ein Rahmen 
-eingeführt, der die Netztneutralität aufhebt. Dabei bleibt aber noch vieles offen, ist 
+eingeführt, der die Netztneutralität nur sehr unklar regelt. Dabei bleibt aber noch vieles offen, ist 
 noch immer umstritten und nicht abschließend geklärt. Das liegt einerseits in 
 zahlreichen unklaren und vagen Formulierungen und Konzepten und andererseits am 
 bewussten offen lassen bzw. nicht beantworten bestimmter Fragen oder an die 
@@ -2552,7 +2550,7 @@ müssen. Das Verhältnis dieser Dienste zum offenen Internet und die Gestaltung 
 Verkehrslenkungsmaßnahmen der Internetzugangsanbieter werden mitentscheidend 
 dafür sein, wie offen das Internet in Zukunft sein wird. Andere kritische Fragen wie der 
 Umgang mit „Zero Rating“ und die Zulässigkeit von Verkehrslenkungsmaßnahmen sind 
-noch völlig ungeklärt.
+noch großteils ungeklärt.
 •	Die österreichische Politik muss sich daher mit der Frage der Netzneutralität weiter 
 beschäftigen und dafür einsetzen, dass die Netzneutralität in Österreich nachhaltig 
 abgesichert wird, damit Endkunden, Netzbetreiber sowie Inhalte- und Medienanbieter 
@@ -2561,7 +2559,7 @@ Medienvielfalt und des weltweiten Standortwettbewerbs. Falls die Politik zum Sch
 gelangt, dass die Offenheit des Internets nachhaltig eingeschränkt wird und die 
 innovations- und wachstumsstimulierende Kraft des Internets erlahmt, sollten aktive 
 Schritte gesetzt werden. Denkbar wäre eine Novellierung der europäischen 
-Rechtsgrundlage oder eine darüber hinaus gehende österreichische Gesetzgebung. 
+Rechtsgrundlage oder eine darüber hinaus gehende österreichische Gesetzgebung. Für öffentlich geförderte Netze sollten Internetzugangsanbieter zu einer netzneutralen Vertragsgestaltung angehalten werden. 
 •	Ziel des Gesetzgebers und der vollziehenden Verwaltung in Österreich und der 
 Europäischen Union sollte eine umfassende Absicherung der Netzneutralität sein. 
 Wichtig dafür ist es auch, Rechtssicherheit für Endkunden, Internetzugangsanbieter 
@@ -2715,7 +2713,7 @@ Beteiligungsangeboten.
 Gefordert wurde in einem Beitrag eine auf Bundes- wie auf Landesebene einheitliche Form für 
 die E-Partizipation, die verfassungsrechtlich abgesichert ist. In der Diskussion über E-Voting 
 überwiegen die Sicherheitsbedenken, der Verfassungsgerichtshof (VfGH) hat im Jahr 2011 die 
-Verordnung zum E-Voting bei der ÖH-Wahl 2009 als gesetzeswidrig aufgehoben.
+Verordnung zum E-Voting bei der ÖH-Wahl 2009 als gesetzeswidrig aufgehoben. Den verfassungsrechtlichen Bedenken, den technischen Problemen einer nachvollziehbaren und geheimen Wahl, dem enormen Missbrauchspotential elektronischer Wahlen, den hohen Kosten und dem Vertrauensverlust in die Korrektheit der Wahl stehen nur unzulängliche Vorteile gegenüber. 
 Auch wenn Österreich längerfristig wohl einen ähnlich hohen Internet-Nutzer_innen-Anteil wie 
 Island (96 Prozent) erreichen wird, sind laut Statistik Austria derzeit noch immer 19 Prozent 
 der Österreicher_innen offline. Es gilt also, jene Menschen, die das Internet überhaupt nicht 
@@ -2918,7 +2916,7 @@ Lösung etabliert werden. Lösungsansätze dazu gibt es bereits länger: „Iden
 Federationen auf nationaler und EU-Ebene“. Auf EU-Ebene ist dazu sicherlich das STORK-
 Projekt zu nennen, auf nationaler Ebene das im Go-To-Market befindliche „StarTrust 
 Alliance Austria/EU“ Projekt… 
-•	Da es sich um eine rechtsgültige Unterschrift handelt, ist es dringend notwendig die
+•  Da es sich um eine rechtsgültige Unterschrift handelt, ist es dringend notwendig die
 Sicherheitsmängel der Handysignatur zu beheben. Diese wird durch ein Zweifaktor-Verfahren 
 gesichert beworben, welches effektiv nur durch ein Passwort geschützt ist. Durch eklatante 
 Sicherheitsmängel der aktuellen Mobilfunktechnologie ist die Übertragung der TANs nicht 
